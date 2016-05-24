@@ -1,3 +1,2 @@
 # Demo
-This is demo repository
-Hello World
+Welcome to GitHub
